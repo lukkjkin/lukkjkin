@@ -1,4 +1,4 @@
-## **`Lucas Edgar`**
+Olá, me chamo `Lucas` tenho sou estudante de Análise e Desenvolvimento de Sistemas (`ADS`) no **`IFPB`**,<br> atualmente estou no terceiro periodo. <br>
 
 
 <div style="display: inline_block">
