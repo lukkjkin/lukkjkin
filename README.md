@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode"/>
 </p>
 
 <p align="center">
