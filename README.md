@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:905bf4,100:4e2bcc&height=0&section=header&text=Lucas%20Dev&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:905bf4,100:4e2bcc&height=0&section=header&text=Lucas%20Edgar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (IFPB)  
-💻 Técnico em Informática  
-🔧 Conhecimento em hardware e manutenção de computadores  
-📚 Cursos pela Fundação Bradesco e PNAAT  
-🚀 Focado em evolução constante na área de desenvolvimento
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (IFPB)  
+- 💻 Técnico em Informática  
+- 🔧 Conhecimento em hardware e manutenção de computadores  
+- 📚 Cursos pela Fundação Bradesco e PNAAT  
+- 🚀 Focado em evolução constante na área de desenvolvimento
 
 
 ## 📊 Estatísticas
